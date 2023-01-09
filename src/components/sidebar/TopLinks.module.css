@@ -1,0 +1,9 @@
+.topLinks_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 174px;
+    border-radius: 6px;
+
+}
